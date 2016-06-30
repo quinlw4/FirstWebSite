@@ -1,1 +1,25 @@
-<h1>hello, world!</h1>s
+<!doctype html>
+<html>
+	<head>
+		<!--
+		Hello, this is a comment 
+		-->
+		<title>My First Webpage
+    </head>
+	<body>	
+			<title>My First Webpage</title>
+	</head>
+	<body>
+		
+		<h1>This is the header</h1>
+		<hr>
+		
+		<h2>Look ma! I'm an h2</h2>
+		<h3>THis is another header, yo</h3>
+		<h4>THis is another header, yo</h4>
+		<h5>THis is another header, yo</h5>
+		<h6>THis is another header, yo</h6>
+		<h1>This is the header</h1>
+		<h2>Look ma! I'm an h2</h2>
+	</body>			
+</html>
