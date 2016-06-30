@@ -21,5 +21,30 @@
 		<h6>THis is another header, yo</h6>
 		<h1>This is the header</h1>
 		<h2>Look ma! I'm an h2</h2>
-	</body>			
+
+		<p>This is a paragraph.</p>
+
+		<p>This is another &nbsp;&nbsp;&nbsp; paragraph.</p>
+
+			<ul>
+			<li>This is a list item</li>
+			<li>This is another list item
+
+				<p>am i allowed to do this? is this kosher?</p>
+			</li>
+			<li>
+				<ul>
+					<li>yo dawg, I heard you liked lists, so i put a list in your list</li>
+					<li>so you can list while you list</li>
+						<img  src="https://lh3.googleusercontent.com/-GA9U-aqaVd0/U0rI0G78kRI/AAAAAAAAAHs/hI9zbcBPO5s/w426-h284/yo-dawg-i-heard-you-like-roleplaying-so-i-put-a-roleplay-in-your-roleplay-so-you-can-roleplay-while-you-roleplay.jpg">">
+					</li>
+					<li>
+					Check out <a target="_blank" href="http://www.google.com">the Google</a>.
+					</li>
+				</ul>
+			</li>
+
+		</ul>
+	</body>
 </html>
+
